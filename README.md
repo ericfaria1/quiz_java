@@ -20,5 +20,14 @@ O objetivo é criar um sistema que:
 
 ---
 
-## 🧱 **Estrutura do Projeto**
+===========================
+👨‍💻 Autor
+Eric Faria dos Santos
+Aluno do curso de Engenharia de Software - ESN2B
+Centro Universitário Alfredo Nasser
+
+🏫 Disciplina
+Algoritmos e Linguagem de Programação II
+Professor: Brenno Pimenta
+Período: 2º
 
