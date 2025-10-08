@@ -27,6 +27,6 @@ Centro Universitário Alfredo Nasser
 
 🏫 Disciplina
 Algoritmos e Linguagem de Programação II
-Professor: Brenno Pimenta
-Período: 2º
+- Professor: Brenno Pimenta
+- Período: 2º
 
