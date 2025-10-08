@@ -22,7 +22,7 @@ O objetivo é criar um sistema que:
 
 👨‍💻 Autor:
 Eric Faria dos Santos
-Aluno do curso de Engenharia de Software - ESN2B
+Aluno do curso de Engenharia de Software - ESN2B - 
 Centro Universitário Alfredo Nasser
 
 🏫 Disciplina
